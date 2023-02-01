@@ -21,19 +21,22 @@ These instructions will help you understand better what's ahead of you!
 
 ### Installing
 
-1. Install dependencies
+1. Please clone the repositiory
+2. Navigate to the cloned folder
+
+3. Install dependencies
 
 ```
 npm install
 ```
 
-3. Run the application
+4. Run the application
 
 ```
 npm run dev
 ```
 
-4. Open the 'dev server' in your browser
+5. Open the 'dev server' in your browser http:localhost:3000/
 
 ### Interview Prerequises
 
