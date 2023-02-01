@@ -33,9 +33,17 @@ npm install
 npm run dev
 ```
 
-4. Open the 'dev server' in your browser and start sharing screen
+4. Open the 'dev server' in your browser
 
-5. Example Screen
+### Interview Prerequises
+
+1. Camera, we'd like to see with whom are we going to work (must!)
+2. Sharing Screen is mandatory during the interview.
+3. Code editor on one side and browser on the other.
+
+_Importance:_ Visual indentification is important to us. Minors are applying for jobs etc. We will call you with a video enabled.
+
+4. Example Screen during the interview
 
 <img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./public/ss.png" />
 
