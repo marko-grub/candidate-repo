@@ -11,6 +11,10 @@ const Hero = () => {
         Welcome Candidate :) Relax, don't rush. If you know what you're doing
         this will be a breeze
       </h1>
+
+      <button className=' bg-emerald-700 text-white px-6 py-2 mt-8 shadow-lg rounded-2xl'>
+        Click Me
+      </button>
     </div>
   );
 };
