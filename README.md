@@ -1,38 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Welcome to the Candidate Application
+
+This repository is a sandbox for future developers that applied for the front-end developer position at Boho Agency INC.
 
 ## Getting Started
 
-First, run the development server:
+These instructions will help you understand better what's ahead of you!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+### Required Knowledge
+
+1. TypeScript
+2. Nextjs
+3. GraphQL/REST API
+4. Styling Framework any of (Bootstrap, Tailwind, Chakra, Mantine)
+
+### Prerequisites
+
+1. Node Installed
+2. Git Installed
+3. Browser Installed
+
+### Installing
+
+1. Install dependencies
+
+```
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Run the application
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+4. Open the 'dev server' in your browser and start sharing screen
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+5. Example Screen
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./ss.png" />
 
-## Learn More
+### About Interview Questions and Test itself
 
-To learn more about Next.js, take a look at the following resources:
+a) Verbal questions - You will be asked simple frontend developer questions - Example: What is Footer ?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_Importance_ filtering out the middleman and people that don't know how to code
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+b) Coding Interview and Search Engine Usage
+There will be 4 tasks ahead of you.
 
-## Deploy on Vercel
+1. TASK1 is very simple
+2. Task2 is simple
+3. Task is standard and you need to use some of the libraries that we use in our projects
+4. Task is a bit more complex and you need to use some of the libraries that you'll installing by yourself
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+_Importance_
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. filtering out people that don't code, hustlers, middlemans etc..
+2. showing candidates live troubleshooting and usage of Search Engines
+
+### RULES
+
+**DO NOT** use any of the libraries that are not installed in the project
+
+1. Sharing screen during the initial coding interview is an obligatory
+2. You can use external resources for **TAKS 3** and **TAKS 4** (Google, StackOverflow, Search Engine of your choice)
+
+3. 🛑 CHATGPT IS NOT ALLOWED !! Github Copilot is not allowed! 🛑
+
+- This test will show your current knowledge of Next and TypeScript
+- Don't worry to much if you don't know the question try to explain the best you can :)
