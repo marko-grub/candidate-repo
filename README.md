@@ -49,31 +49,32 @@ _Importance:_ Visual indentification is important to us. Minors are applying for
 
 ### About Interview Questions and Test itself
 
-a) Verbal questions - You will be asked simple frontend developer questions - Example: What is Footer ?
+a) **Verbal questions** - You will be asked simple frontend developer questions - Example: What is Footer ?
 
 _Importance_ filtering out the middleman and people that don't know how to code
 
-b) Coding Interview and Search Engine Usage
-There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'
+b) **Coding Interview and Search Engine Usage**
+There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'. So please relax
 
 1. TASK_1 is very simple
 2. TASK_2 is simple
 3. TASK_3 is standard and you need to use libraries that are in the repository
 4. TASK_4 is a bit more complex and you need to use extral library that will be presented to you and make it work
 
-- You can use external resources for **TAKS 3** and **TAKS 4** (Google, StackOverflow, Search Engine of your choice)
+- You can use external resources for **TAKS 3** and **TAKS 4** (Google ✅, StackOverflow ✅, Search Engine ✅ of your choice)
+
 - 🛑 Chat-GPT-3 IS NOT ALLOWED !! Github Copilot is not allowed! 🛑
 
 _Importance_
 
-1. filtering out people that don't code, hustlers, middlemans etc..
-2. showing candidates live troubleshooting and usage of Search Engines
+1. showing live troubleshooting, tought process and live usage of Search Engines
+2. filtering out candidates
 
 ### RULES
 
 **DO NOT** use any of the libraries that are not installed in the project
 
 - This test will show your current knowledge of Next and TypeScript
-- Don't worry to much if you don't know the question try to explain the best you can :)
+- Don't worry too much if you don't know the question try to explain it the best way you can :)
 
 ### GOOD LUCK!!!
