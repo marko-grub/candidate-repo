@@ -37,7 +37,7 @@ npm run dev
 
 5. Example Screen
 
-<img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./ss.png" />
+<img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./public/ss.png" />
 
 ### About Interview Questions and Test itself
 
