@@ -38,7 +38,7 @@ npm run dev
 ### Interview Prerequises
 
 1. Camera, we'd like to see with whom are we going to work (must!)
-2. Sharing Screen is mandatory during the interview.
+2. Sharing Screen is mandatory during the short coding interview.
 3. Code editor on one side and browser on the other.
 
 _Importance:_ Visual indentification is important to us. Minors are applying for jobs etc. We will call you with a video enabled.
@@ -54,12 +54,15 @@ a) Verbal questions - You will be asked simple frontend developer questions - Ex
 _Importance_ filtering out the middleman and people that don't know how to code
 
 b) Coding Interview and Search Engine Usage
-There will be 4 tasks ahead of you.
+There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'
 
-1. TASK1 is very simple
-2. Task2 is simple
-3. Task is standard and you need to use some of the libraries that we use in our projects
-4. Task is a bit more complex and you need to use some of the libraries that you'll installing by yourself
+1. TASK_1 is very simple
+2. TASK_2 is simple
+3. TASK_3 is standard and you need to use libraries that are in the repository
+4. TASK_4 is a bit more complex and you need to use extral library that will be presented to you and make it work
+
+- You can use external resources for **TAKS 3** and **TAKS 4** (Google, StackOverflow, Search Engine of your choice)
+- 🛑 Chat-GPT-3 IS NOT ALLOWED !! Github Copilot is not allowed! 🛑
 
 _Importance_
 
@@ -70,10 +73,7 @@ _Importance_
 
 **DO NOT** use any of the libraries that are not installed in the project
 
-1. Sharing screen during the initial coding interview is an obligatory
-2. You can use external resources for **TAKS 3** and **TAKS 4** (Google, StackOverflow, Search Engine of your choice)
-
-3. 🛑 CHATGPT IS NOT ALLOWED !! Github Copilot is not allowed! 🛑
-
 - This test will show your current knowledge of Next and TypeScript
 - Don't worry to much if you don't know the question try to explain the best you can :)
+
+### GOOD LUCK!!!
