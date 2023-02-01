@@ -45,7 +45,7 @@ _Importance:_ Visual indentification is important to us. Minors are applying for
 
 4. Example Screen during the interview
 
-<img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./public/ss.png" />
+<img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./public/ss1.png" />
 
 ### About Interview Questions and Test itself
 
