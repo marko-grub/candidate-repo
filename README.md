@@ -48,7 +48,7 @@ _Importance:_ Visual indentification is important to us. Minors are applying for
 
 4. Example Screen during the interview
 
-<img align="left" alt="Screenshoot" width="100%" style="padding-right:10px;" src="./public/ss1.png" />
+<img align="left" alt="Screenshoot" width="100%" style="padding:30px 10px 50px 10px;" src="./public/ss1.png" />
 
 ### About Interview Questions and Test itself
 
@@ -59,6 +59,7 @@ a) **Verbal questions** - You will be asked simple frontend developer questions 
 _Importance_ filtering out the middleman and people that don't know how to code
 
 b) **Coding Interview and Search Engine Usage**
+
 There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'. So please relax.
 There are no algorithms on this interview.
 
