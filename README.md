@@ -59,7 +59,7 @@ a) **Verbal questions** - You will be asked simple frontend developer questions 
 _Importance_ filtering out the middleman and people that don't know how to code
 
 b) **Coding Interview and Search Engine Usage**
-There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'. So please relax
+There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'. So please relax.
 There are no algorithms on this interview. 
 
 1. TASK_1 is very simple
