@@ -40,6 +40,8 @@ npm run dev
 
 ### Interview Prerequises
 
+
+
 1. Camera, we'd like to see with whom are we going to work (must!)
 2. Sharing Screen is mandatory during the short coding interview.
 3. Code editor on one side and browser on the other.
@@ -58,6 +60,7 @@ _Importance_ filtering out the middleman and people that don't know how to code
 
 b) **Coding Interview and Search Engine Usage**
 There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adventcode'. So please relax
+There are no algorithms on this interview. 
 
 1. TASK_1 is very simple
 2. TASK_2 is simple
